@@ -1,4 +1,7 @@
-theme: jekyll-theme-minimal
+remote_theme: pmarsceill/just-the-docs
 
-title: [Kateřina Kolouchová]
-description: [About me]
+title: Kateřina Kolouchová
+description: About me
+
+baseurl: ""
+url: "https://katkolouchova.github.io"
