@@ -6,6 +6,7 @@
 layout: home
 title: Home
 nav_order: 1
+
 ---
 
-Hi! My name is Kačka Kolouchová...
+Hi! My name is Kateřina Kolouchová...
