@@ -8,7 +8,7 @@ h1, h2, h3 {
     font-family: 'Playfair Display', Diderot, serif;
 }
 
-h2::after {
+h2:after {
     height: 14px;
     background: #6d81ec;
     width: 47%;
@@ -51,7 +51,7 @@ a{color: black;}
     color: black;
 }
 
-.side-bar::after {
+.side-bar:after {
     height: 14px;
     background: #6d81ec;
     width: 47%;
