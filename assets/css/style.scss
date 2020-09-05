@@ -60,10 +60,11 @@ a{color: black;}
     color: black;
 }
 
-h1 a:after {
+h1:after {
     height: 14px;
     background: var(--underline-color);
     position: relative;
+    width: 35%;
     content: " ";
     left: 0;
     display: block;
@@ -74,4 +75,17 @@ h1 a:after {
 
 a:hover, a:focus {
     color: #ffc5c5;
+}
+
+section {
+    width: 800px;
+    float: right;
+    padding-bottom: 50px;
+}
+
+footer {
+    width: 800px;
+    float: right;
+    position: relative;
+    bottom: -100px;
 }
