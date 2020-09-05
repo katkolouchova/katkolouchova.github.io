@@ -8,6 +8,20 @@ h1, h2, h3 {
     font-family: 'Playfair Display', Diderot, serif;
 }
 
+h2::after {
+    height: 14px;
+    background: #6d81ec;
+    width: 47%;
+    position: relative;
+    content: " ";
+    left: 12px;
+    display: block;
+    bottom: 14px;
+    margin-bottom: -14px;
+    mix-blend-mode: multiply;
+
+}
+
 .site-header {
     height: 80px;
     max-height: 80px;
@@ -19,11 +33,11 @@ h1, h2, h3 {
     font-size: 31px !important;
     }
 
- .main-header {
+@media (min-width: 50rem) {
+.main-header {
     display: none;
-    height: 0px;
-    line-height: 0px;
-    }   
+}
+}
 
  .nav-list .nav-list-item {
     font-size: 16px !important ;
@@ -33,4 +47,21 @@ h1, h2, h3 {
 .side-bar{background-color: white;}
 a{color: black;}
 
+.icon{
+    color: black;
+}
+
+.side-bar::after {
+    height: 14px;
+    background: #6d81ec;
+    width: 47%;
+    position: relative;
+    content: " ";
+    left: 12px;
+    display: block;
+    bottom: 14px;
+    margin-bottom: -14px;
+    mix-blend-mode: multiply;
+
+}
 
