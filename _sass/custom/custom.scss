@@ -20,12 +20,10 @@ h1, h2, h3 {
     }
 
  .main-header {
-    height: 80px;
-    max-height: 80px;
-    font-family: 'Playfair Display';
+    display: false;
     }   
 
- .nav-list {
+ .nav-list .nav-list-item {
     font-size: 16px !important ;
     font-family: 'Playfair Display';
     }

@@ -4,9 +4,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home
+title: About
 nav_order: 1
 
 ---
 
 Hi! My name is Kateřina Kolouchová...
+
+#Experience
