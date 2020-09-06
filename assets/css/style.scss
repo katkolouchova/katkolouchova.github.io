@@ -1,5 +1,3 @@
----
----
 
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;0,700;1,400&family=Playfair+Display:wght@600&display=swap');
@@ -92,6 +90,7 @@ a {
 
 a:hover, a:focus {
     color: #ffc5c5;
+    font-weight: 400;
 }
 
 @media (min-width: 960px) {
