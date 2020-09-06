@@ -16,13 +16,13 @@ Hello, my name is Kateřina and I'm curious about data visualization & data anal
 
 ### 2019–ongoing: Junior Business Intelligence Specialist
 
-My work focus is mainly on developing reports in Power BI, which involves data transformations, modelling & vizualizations. I've worked on projects for various clients in a both commercial (e. g. business & manufacturing) and public sector.
+My work focus is mainly on developing reports in Power BI, which involves data transformations, modelling & visualizations. I've worked on projects for various clients in a both commercial (e. g. business & manufacturing) and public sector.
 
 ## Skills
 
 ### Data analysis & visualization
 
-Power BI (data transormation, modelling and vizualization, DAX), R (ggplot2), SQL, Excel, Adobe Illustrator & Inkscape basics
+Power BI (data transformation, modelling and visualization, DAX), R (ggplot2), SQL, Excel, Adobe Illustrator & Inkscape basics
 
 ### Programming
 
@@ -46,4 +46,4 @@ Three-month-long intensive course on data analysis. The skills gained were synth
 
 ## Interests
 
-Apart from data vis, I enjoy reading a good non-fiction book or a novel, taking care of plants and a good coffee.
+Apart from data vis, I enjoy reading a good non-fiction book or a novel, taking care of plants and a fruity coffee.
