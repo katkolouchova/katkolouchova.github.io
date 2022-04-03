@@ -1,12 +1,7 @@
 ---
 ---
-
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;600&family=Mulish:ital,wght@0,300;0,700;1,300;1,700&display=swap');
-
-:root {
-    --underline-color: #ffffff;
-}
 
 body {
     font-family: 'Mulish', Helvetica, Arial, sans-serif;
@@ -18,23 +13,12 @@ h1, h2 {
     font-family: 'Inter', Diderot, serif;
 }
 
-h2:after {
-    position: relative;
-    display: block;
-    height: 8px;
-    font-size: 22px;
-    width: 28%;
-    left: 0;
-    bottom: 6px;
-    margin-bottom: -10px;
-    content: "";
-    background: var(--underline-color);
-    z-index: -1;
-    color: #313131
+h2 {
+    font-size: 1.2em;
 }
 
 h3 {
-    font-size: 18px;
+    font-size: 1em;
     font-family: 'Inter', Helvetica, Arial, sans-serif;
     font-weight: 600;
     margin-top: 25px;
@@ -54,9 +38,9 @@ h3 {
     }
 
 @media (min-width: 50rem) {
-.main-header {
-    display: none;
-}
+    .main-header {
+        display: none;
+    }
 }
 
  .nav-list .nav-list-item {
@@ -65,7 +49,7 @@ h3 {
     }
 
 .side-bar{background-color: white;}
-a{color: black;}
+a { color: black; }
 
 .icon{
     color: black;
@@ -98,10 +82,10 @@ a:hover, a:focus {
 }
 
 @media (min-width: 960px) {
-section {
-    float: none;
-    width: 600px;
-}
+    section {
+        float: none;
+        width: 600px;
+    }
 }
 
 footer {

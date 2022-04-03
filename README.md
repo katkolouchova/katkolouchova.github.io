@@ -1,1 +1,1 @@
-My personal CV.
+My personal site.
