@@ -17,4 +17,4 @@ HTML & CSS basics, Python basics, git
 
 ## Get in touch with me
 
-E-mail katerina.kolouchova@faktaoklimatu.cz // Twitter [@katkolouchova](https://twitter.com/katkolouchova)
+E-mail [katerina.kolouchova@faktaoklimatu.cz](katerina.kolouchova@faktaoklimatu.cz) // Twitter [@katkolouchova](https://twitter.com/katkolouchova)
