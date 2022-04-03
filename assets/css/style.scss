@@ -5,7 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;600&family=Merriweather:ital,wght@0,300;0,700;1,300;1,700&display=swap');
 
 :root {
-    --underline-color: #ffc5c5;
+    --underline-color: #ffffff;
 }
 
 body {
@@ -21,7 +21,7 @@ h1, h2 {
 h2:after {
     position: relative;
     display: block;
-    height: 10px;
+    height: 8px;
     width: 28%;
     left: 0;
     bottom: 6px;
