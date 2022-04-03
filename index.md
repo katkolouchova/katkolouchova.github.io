@@ -1,7 +1,7 @@
 ---
 # Kateřina Kolouchová
 
-Currently, I work as an analyst in [Fakta o klimatu](www.faktaoklimatu.cz) (Facts on Climate), where my focus involves mainly **climate change policy and politics** :seedling: and **data visualisation** :bar_chart:.
+Currently, I work as an analyst in [Fakta o klimatu](www.faktaoklimatu.cz) (Facts on Climate), where my focus involves mainly **climate change policy and politics** 🌱 and **data visualisation** 📊.
 
 I have a master's degree in economic policy and international relations from Masaryk University Brno.
 
