@@ -73,19 +73,12 @@ h2 {
 }
 
 a {
-    color: #bd3333;
+    color: #003455;
 }
 
 a:hover, a:focus {
-    color: #ffc5c5;
+    color: #b16756;
     font-weight: 400;
-}
-
-@media (min-width: 960px) {
-    section {
-        float: none;
-        width: 600px;
-    }
 }
 
 footer {
@@ -95,4 +88,28 @@ footer {
 
 p, ul, ol, table, pre, dl {
     margin: 0 0 10px;
+}
+
+.profile-pic {
+    text-align: center;
+}
+
+.profile-pic img {
+    width: 50%;
+    border-radius: 50%;
+}
+
+/* Device size: desktop */
+@media (min-width: 960px) {
+    section {
+        float: none;
+        width: 600px;
+        margin: 0 auto;
+    }
+
+    .profile-pic img {
+        width: 30vh;
+        float: left;
+        margin-left: -34vh;
+    }
 }
